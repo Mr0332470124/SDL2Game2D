@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\admin\source\repos\project1\project1</FILEPATH>
+      <FILENAME>game.cpp</FILENAME>
+      <LINE>6</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Game::window' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Game::{ctor}</FUNCTION>
+    <DECORATED>??0Game@@QAE@XZ</DECORATED>
+    <FUNCLINE>6</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\admin\source\repos\project1\project1</FILEPATH>
+      <FILENAME>game.cpp</FILENAME>
+      <LINE>6</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Game::RemainingTurn' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Game::{ctor}</FUNCTION>
+    <DECORATED>??0Game@@QAE@XZ</DECORATED>
+    <FUNCLINE>6</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\admin\source\repos\project1\project1</FILEPATH>
+      <FILENAME>game.cpp</FILENAME>
+      <LINE>6</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Game::chuctex' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Game::{ctor}</FUNCTION>
+    <DECORATED>??0Game@@QAE@XZ</DECORATED>
+    <FUNCLINE>6</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\admin\source\repos\project1\project1</FILEPATH>
+      <FILENAME>game.cpp</FILENAME>
+      <LINE>6</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Game::donvitex' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Game::{ctor}</FUNCTION>
+    <DECORATED>??0Game@@QAE@XZ</DECORATED>
+    <FUNCLINE>6</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\admin\source\repos\project1\project1</FILEPATH>
+      <FILENAME>game.cpp</FILENAME>
+      <LINE>6</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Game::bkgr' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Game::{ctor}</FUNCTION>
+    <DECORATED>??0Game@@QAE@XZ</DECORATED>
+    <FUNCLINE>6</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\admin\source\repos\project1\project1</FILEPATH>
+      <FILENAME>game.cpp</FILENAME>
+      <LINE>6</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Game::remturn' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Game::{ctor}</FUNCTION>
+    <DECORATED>??0Game@@QAE@XZ</DECORATED>
+    <FUNCLINE>6</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\admin\source\repos\project1\project1</FILEPATH>
+      <FILENAME>game.cpp</FILENAME>
+      <LINE>6</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Game::chuc' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Game::{ctor}</FUNCTION>
+    <DECORATED>??0Game@@QAE@XZ</DECORATED>
+    <FUNCLINE>6</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\admin\source\repos\project1\project1</FILEPATH>
+      <FILENAME>game.cpp</FILENAME>
+      <LINE>6</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Game::donvi' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Game::{ctor}</FUNCTION>
+    <DECORATED>??0Game@@QAE@XZ</DECORATED>
+    <FUNCLINE>6</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

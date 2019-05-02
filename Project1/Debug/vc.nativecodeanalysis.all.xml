@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\admin\source\repos\project1\project1</FILEPATH>
+      <FILENAME>baseobject.cpp</FILENAME>
+      <LINE>2</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'BaseObj::scr' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>BaseObj::{ctor}</FUNCTION>
+    <DECORATED>??0BaseObj@@QAE@XZ</DECORATED>
+    <FUNCLINE>2</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\admin\source\repos\project1\project1</FILEPATH>
+      <FILENAME>game.cpp</FILENAME>
+      <LINE>6</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Game::window' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Game::{ctor}</FUNCTION>
+    <DECORATED>??0Game@@QAE@XZ</DECORATED>
+    <FUNCLINE>6</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>
